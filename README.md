@@ -2,7 +2,7 @@
 
 # Development
 
-[DOTween](http://dotween.demigiant.com) Great plugin for animation. Usage logic is similar to actions in cocos2dx (http://www.cocos2d-x.org/wiki/Actions ) I used it for player tutorial animation, sprites animation.
+[DOTween](http://dotween.demigiant.com) Great plugin for animation. Usage logic is similar to [actions](http://www.cocos2d-x.org/wiki/Actions) in cocos2dx. I used it for player tutorial animation, sprites animation.
 
 [TSTableView](https://www.assetstore.unity3d.com/en/#!/content/27615) Good plugin for work with tables. Usage is similar to the TableViewController in ios development: create a prefab cell and table is filled with cells dynamically during scrolling.
 
